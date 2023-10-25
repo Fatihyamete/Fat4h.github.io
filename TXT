@@ -1,0 +1,5 @@
+                                                              Hello everyone
+                                      I will show a cheat code for those who play Devast io on this site.
+                                                   👇👇 I will show file urls 👇👇              
+                                        https://devast.io/        https://devast.io/js/client.*.min.js
+                                                  PASTE THESE URLS INTO Resource Override
